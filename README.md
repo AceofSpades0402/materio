@@ -1,32 +1,44 @@
+<p align="center"></p>
+
 <p align="center">
-   <a href="https://themeselection.com/item/materio-dashboard-free-bootstrap/" target="_blank">
+   <a href="https://themeselection.com/item/materio-free-bootstrap-html-dajngo-admin-template/" target="_blank">
       <img src="https://cdn.themeselection.com/ts-assets/materio/logo/logo.png" alt="materio-logo" width="40px" height="auto">
    </a>
 </p>
 
 <h1 align="center">
-   <a href="https://themeselection.com/item/materio-dashboard-free-bootstrap/" target="_blank" align="center">
-      Materio - Free Bootstrap 5 HTML Admin Template
+   <a href="https://themeselection.com/item/materio-free-bootstrap-html-dajngo-admin-template/" target="_blank" align="center">
+     Materio - Free Bootstrap 5 HTML Django Admin Template
    </a>
 </h1>
 
-<p align="center">Most Powerful & Comprehensive Free Bootstrap 5 HTML Admin Dashboard Template built for developers!</p>
+<p align="center">Most Powerful & Comprehensive Free Django HTML Admin Dashboard Template built for developers!</p>
 
-![GitHub](https://img.shields.io/github/license/themeselection/materio-bootstrap-html-admin-template-free) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/themeselection/materio-bootstrap-html-admin-template-free) ![GitHub issues](https://img.shields.io/github/issues/themeselection/materio-bootstrap-html-admin-template-free) ![GitHub closed issues](https://img.shields.io/github/issues-closed/themeselection/materio-bootstrap-html-admin-template-free) ![Twitter Follow](https://img.shields.io/twitter/follow/Theme_Selection?style=social)
+<p align="center">
+   <a href="https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/themeselection/materio-bootstrap-html-django-admin-template-free" alt="license">
+   </a>
+   <a href="https://github.com/themeselection/materio-bootstrap-html-django-admin-template-free/releases">
+    <img src="https://img.shields.io/github/release/themeselection/materio-bootstrap-html-django-admin-template-free.svg" alt="GitHub release">
+  </a>
+   <a href="https://twitter.com/Theme_Selection" target="_blank">
+      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Theme_Selection">
+   </a>
+</p>
 
-[![Materio - Bootstrap 5 HTML Admin Template Demo Screenshot](https://cdn.themeselection.com/ts-assets/materio/materio-bootstrap-html-admin-template-free/banner/banner.png)](https://themeselection.com/item/materio-dashboard-free-bootstrap/)
+<kbd>[![Materio - Bootstrap 5 HTML Django Admin Template Demo Screenshot](https://cdn.themeselection.com/ts-assets/materio/materio-bootstrap-django-admin-template-free/banner/banner.png)](https://themeselection.com/item/materio-free-bootstrap-html-django-admin-template/)</kbd>
 
 ## Introduction 🚀
 
-If you’re a developer looking for the most Powerful & comprehensive [**Free Bootstrap 5 HTML Admin Template**](https://themeselection.com/item/materio-dashboard-free-bootstrap/) built for developers, rich with features, and highly customizable look no further than Materio. We’ve followed the highest industry standards to bring you the very best admin template that is not only fast and easy to use but highly scalable. Offering ultimate convenience and flexibility, you’ll be able to build whatever application you want with very little hassle.
+If you’re a developer looking for the most Powerful & comprehensive [**Free Bootstrap 5 HTML Django Admin Template**](https://themeselection.com/item/materio-free-bootstrap-html-django-admin-template/) built for developers, rich with features, and highly customizable look no further than Materio. We’ve followed the highest industry standards to bring you the very best admin template that is not only fast and easy to use but highly scalable. Offering ultimate convenience and flexibility, you’ll be able to build whatever application you want with very little hassle.
 
-Build premium quality applications with ease. Use our innovative [bootstrap admin template](https://themeselection.com/item/category/bootstrap-admin-templates/) to create eye-catching, high-quality WebApps. Your apps will be completely responsive, ensuring they’ll look stunning and function flawlessly on desktops, tablets, and mobile devices.
+Build premium quality applications with ease. Use our innovative **[Django admin template](https://themeselection.com/item/category/django-admin-template/)** to create eye-catching, high-quality WebApps. Your apps will be completely responsive, ensuring they’ll look stunning and function flawlessly on desktops, tablets, and mobile devices.
 
-[View Demo](https://demos.themeselection.com/materio-bootstrap-html-admin-template-free/html/index.html)
+[View Demo](https://demos.themeselection.com/materio-html-django-admin-template-free/)
 
 ## Installation ⚒️
 
-Please [visit](https://demos.themeselection.com/materio-bootstrap-html-admin-template/documentation/installation-build.html) our docs for installation guide.
+Please [visit](https://demos.themeselection.com/materio-bootstrap-html-admin-template/documentation/django-init-installation.html) our docs for installation guide.
 
 ## What's Included 📦
 
@@ -51,7 +63,7 @@ Please [visit](https://demos.themeselection.com/materio-bootstrap-html-admin-tem
 - Extended UI
   - Perfect Scrollbar
   - Text Divider
-- Remix Icons (RI)
+- Boxicon
 - Form Elements
   - Basic Inputs
   - Input Groups
@@ -62,42 +74,39 @@ Please [visit](https://demos.themeselection.com/materio-bootstrap-html-admin-tem
 
 ## What's in Premium Version 💎
 
-| Materio Free Version                                                                     | Materio Premium Version                                                                                                              |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [Demo](https://themeselection.com/demo/materio-bootstrap-html-admin-template-free/html/) | [Demo](https://themeselection.com/demo/materio-bootstrap-html-admin-template/html/vertical-menu-template/)                           |
-| [Download](https://themeselection.com/item/materio-dashboard-free-bootstrap/)            | [Purchase](https://themeselection.com/item/materio-dashboard-pro-bootstrap/)                                                         |
-| Single vertical Menu                                                                     | Vertical Menu + Horizontal Menu                                                                                                      |
-| Simple Light Style                                                                       | Light & Dark Style                                                                                                                   |
-| Default Theme                                                                            | Default, Semi Dark & Bordered Themes                                                                                                 |
-| Fixed Layout(Menu)                                                                       | Fixed & Static Layout(Menu)                                                                                                          |
-| -                                                                                        | Template Customizer                                                                                                                  |
-| 1 Simple Dashboard                                                                       | 6 Niche Dashboards                                                                                                                   |
-| -                                                                                        | Multiple Ready Applications like Calendar, Invoice, Users List, Users View, Roles and Permission, eCommerce, Academy, Logistics etc. |
-| Simple From Elements                                                                     | Advance form elements, validation & form wizard                                                                                      |
-| Basic Cards                                                                              | Basic, Advance, Statistics, Analytics, Gamification and Actions Cards                                                                |
-| Basic User Interface(Components)                                                         | Advance and Custom User Interfaces(Components)                                                                                       |
-| Two Extended Components                                                                  | Twelve Ready to use Extended Components                                                                                              |
-| -                                                                                        | Quick Search - Quickly navigate between pages (w/ hotkey support)                                                                    |
-| Basic Pages                                                                              | Authentication Pages in 2 Variants + Ready-to-use pages like User Profile, Account Settings, FAQ, Help Center, Pricing, Misc, etc.   |
-| -                                                                                        | 3D Characters + Illustrations                                                                                                        |
-| Basic tables                                                                             | Advanced tables                                                                                                                      |
-| -                                                                                        | Quick customization using theme config file                                                                                          |
-| -                                                                                        | Leaflet Maps                                                                                                                         |
-| 1 Chart Library                                                                          | 2 Chart Libraries                                                                                                                    |
-| -                                                                                        | Multiple Navbar & Menu Options                                                                                                       |
-| -                                                                                        | Starter-kit                                                                                                                          |
-| -                                                                                        | Internationalization support                                                                                                         |
-| -                                                                                        | RTL Support                                                                                                                          |
-| Regular Support                                                                          | Priority Support                                                                                                                     |
-| Detailed Documentation                                                                   | Detailed Documentation                                                                                                               |
+| Materio Free Version                                                                           | Materio Premium Version                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Demo](https://demos.themeselection.com/materio-html-django-admin-template-free/)              | [Demo](https://demos.themeselection.com/materio-html-django-admin-template/demo-1/login/)                                                                                                                                                                                            |
+| [Download](https://themeselection.com/item/materio-free-bootstrap-html-dajngo-admin-template/) | [Purchase](https://themeselection.com/item/materio-bootstrap-django-admin-template/)                                                                                                                                                                                                 |
+| Single vertical Menu                                                                           | Vertical Menu + Horizontal Menu                                                                                                                                                                                                                                                      |
+| Simple Light Style                                                                             | Light, Dark & System Style                                                                                                                                                                                                                                                           |
+| Default Theme                                                                                  | Default, Semi Dark & Bordered Themes                                                                                                                                                                                                                                                 |
+| Fixed Layout(Menu)                                                                             | Fixed & Static Layout(Menu)                                                                                                                                                                                                                                                          |
+| 1 Simple Dashboard                                                                             | 5 Niche Dashboards                                                                                                                                                                                                                                                                   |
+| -                                                                                              | Multiple Ready to use Application like Email, Chat, Calendar, Kanban, eCommerce, Academy, Logistics, Invoice, Users List, Users View, Roles and Permission etc.                                                                                                                      |
+| -                                                                                              | **Django Transaction CRUD Application** that only allows admin and user with permission to add, update, and delete records.                                                                                                                                                          |
+| -                                                                                              | **Integrated User Authentication** includes functionalities like user login and registration, along with features for password reset and email verification utilizing EmailMessage. Furthermore, it incorporates both role-based access control and permission-based access control. |
+| Simple Form Elements                                                                           | Advance form elements, validation & form wizard                                                                                                                                                                                                                                      |
+| Basic Cards                                                                                    | Basic, Advance , Statistics, Analytics, Gamifications and Actions Cards                                                                                                                                                                                                              |
+| Basic User Interface(Components)                                                               | Advance and Custom User Interfaces(Components)                                                                                                                                                                                                                                       |
+| Two Extended Components                                                                        | Twelve Ready to use Extended Components                                                                                                                                                                                                                                              |
+| -                                                                                              | Quick Search - Quickly navigate between pages (w/ hotkey support)                                                                                                                                                                                                                    |
+| Basic Pages                                                                                    | Authentication Pages in 2 Variants + Ready to use pages like User Profile, Account Settings,FAQ, Help Center, Pricing, Misc etc.                                                                                                                                                     |
+| -                                                                                              | 3D Characters + Illustrations                                                                                                                                                                                                                                                        |
+| Basic tables                                                                                   | Advanced & Data tables                                                                                                                                                                                                                                                               |
+| -                                                                                              | Quick customization using theme config file                                                                                                                                                                                                                                          |
+| -                                                                                              | Leaflet Maps                                                                                                                                                                                                                                                                         |
+| 1 Chart Library                                                                                | 2 Chart Libraries                                                                                                                                                                                                                                                                    |
+| -                                                                                              | Multiple Navbar & Menu Options                                                                                                                                                                                                                                                       |
+| -                                                                                              | Starter-kit                                                                                                                                                                                                                                                                          |
+| -                                                                                              | **Localization support**                                                                                                                                                                                                                                                             |
+| -                                                                                              | RTL Support                                                                                                                                                                                                                                                                          |
+| Regular Support                                                                                | Priority Support                                                                                                                                                                                                                                                                     |
+| Detailed Documentation                                                                         | Detailed Documentation                                                                                                                                                                                                                                                               |
 
 ## Documentation 📜
 
-<!-- If you have docs in wiki then use below line -->
-
-Check GitHub [Wiki](https://github.com/themeselection/materio-bootstrap-html-admin-template-free/wiki) of this repository.
-
-Check out our live [Documentation](https://demos.themeselection.com/materio-bootstrap-html-admin-template/documentation/)
+Check out our live [Documentation](https://demos.themeselection.com/materio-bootstrap-html-admin-template/documentation/django-introduction.html)
 
 ## Browser Support 🖥️
 
@@ -113,7 +122,7 @@ Check out our live [Documentation](https://demos.themeselection.com/materio-boot
 Contribution are always welcome and recommended! Here is how:
 
 - Fork the repository ([here is the guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo)).
-- Clone to your machine `git clone https://github.com/themeselection/materio-bootstrap-html-admin-template-free` Make your changes
+- Clone to your machine `git clone https://github.com/themeselection/materio-bootstrap-html-django-admin-template-free` Make your changes
 - Create a pull request
 
 ### Contribution Requirements 🧰
@@ -136,7 +145,6 @@ For free products, enjoy community support via GitHub issues. Upgrade to Premium
 - Copyright © [ThemeSelection](https://themeselection.com/)
 - Licensed under [MIT](LICENSE)
 - All our free items are Open Source and licensed under MIT. You can use our free items for personal as well as commercial purposes. We just need an attribution from your end. Copy the below link and paste it at the footer of your web application or project.
-
   ```html
   <a href="https://themeselection.com/">ThemeSelection</a>
   ```
@@ -170,30 +178,28 @@ For free products, enjoy community support via GitHub issues. Upgrade to Premium
 
 **[ThemeSelection](https://themeselection.com/)** provides Selected high quality, modern design, professional and easy-to-use **Fully Coded Dashboard Templates & UI Kits** to create your applications faster!
 
-- [Bootstrap Admin Templates](https://themeselection.com/item/category/bootstrap-admin-templates/)
+- [Bootstrap Admin Templates](https://themeselection.com/item/category/bootstrap-admin-template/)
 - [VueJS Admin Templates](https://themeselection.com/item/category/vuejs-admin-templates/)
 - [Laravel Admin Templates](https://themeselection.com/item/category/laravel-admin-templates/)
 - [Django Admin Templates](https://themeselection.com/item/category/django-admin-template/)
 - [React (NextJS) Admin Templates](https://themeselection.com/item/category/next-js-admin-template/)
 - [ASP.Net Core Admin Templates](https://themeselection.com/item/category/asp-net-dashboard/)
-- [Free UI Kits](https://themeselection.com/item/category/free-ui-kits/)
+- [Free UI Kits](https://themeselection.com/item/category/free-ui-kits/) 
 
-If you want to [Free Admin Templates](https://themeselection.com/item/category/free-admin-templates/) like Materio then do visit [ThemeSelection](https://themeselection.com/).
+If you want to [Download Free Admin Templates](https://themeselection.com/item/category/free-admin-templates/) like Materio then do visit [ThemeSelection](https://themeselection.com/).
 
 ## Useful Links 🎁
 
 - [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)
-- [Freebies](https://themeselection.com/item/category/freebies/)
-- [Free Admin Templates](https://themeselection.com/item/category/free-admin-templates/)
+- [Freebies](https://themeselection.com/item/category/free-admin-templates/)
+- [Download Free Admin Templates](https://themeselection.com/item/category/free-admin-templates/)
 - [Bootstrap 5 CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
-- [FlyonUI](https://flyonui.com/)
-- [JetShip](https://demos.themeselection.com/jetship-laravel-starter-kit/)
 
 ## Social Media :earth_africa:
 
-- [x](https://x.com/Theme_Selection)
+- [Twitter](https://twitter.com/Theme_Selection)
 - [Facebook](https://www.facebook.com/ThemeSelections/)
-- [Pinterest](https://www.pinterest.com/themeselection/)
+- [Pinterest](https://pinterest.com/themeselect/)
 - [Instagram](https://www.instagram.com/themeselection/)
-- [Discord](https://discord.com/invite/kBHkY7DekX)
+- [Discord](https://discord.gg/kBHkY7DekX)
 - [YouTube](https://www.youtube.com/channel/UCuryo5s0CW4aP83itLjIdZg)
